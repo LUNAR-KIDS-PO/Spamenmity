@@ -1,2 +1,0 @@
-# Spamenmity
-Test
